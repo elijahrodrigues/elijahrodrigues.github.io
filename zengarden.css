@@ -1,0 +1,77 @@
+.preamble {
+  background-color: transparent;
+  border: 4px;
+  margin: 4px;
+  color: white;
+  align-content: left;
+}
+  body {
+    background: white url("http://img.lum.dolimg.com/v1/images/databank_mustafar_01_169_5b470758.jpeg?region=0%2C98%2C1560%2C780");
+  }
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  margin: 5px;
+  border: 5px;
+
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: red;
+}
+a {
+  color: orange;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  border: 5px solid black;
+  border-style: solid;
+  border-color: red;
+}
+ul {
+  color: red;
+  margin: 5px;
+  border: 5px;
+}
+header {
+  color: white;
+  text-align: center;
+  border: 5px solid black;
+  border-style: solid;
+  border-color: red;
+  margin: 5px;
+  background-image: url(https://cdn.vox-cdn.com/thumbor/hvG7ISgzzGSUUmg27JxBcPRVsy4=/0x0:626x352/1200x800/filters:focal(242x121:342x221)/cdn.vox-cdn.com/uploads/chorus_image/image/52321535/vader3.0.jpeg);
+}
+a:hover {
+  color: yellow;
+}
+.preamble:hover {
+  background-color: red;
+}
+p:hover {
+  background-color: red;
+}
+.design-selection {
+  border: 5px solid red;
+  margin: 5px;
+  margin-left: 200px;
+  position: left;
+}
+.design-archives {
+  border: 5px solid red;
+  margin: 5px;
+  margin-left: 200px;
+  position: right;
+}
