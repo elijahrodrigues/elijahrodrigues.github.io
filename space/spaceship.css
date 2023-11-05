@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+
+#canvas {
+  width: 1000px;
+  height: 1000px;
+  border: 1px solid black;
+}
+
+h1 {
+  color: gold;
+  font-size: 48px;
+}
+h3 {
+  color: gold;
+}
+.block {
+  background-color: black;
+  border: gold solid 5px;
+  margin: 5px;
+  padding: 5px;
+  
+  
+}
+#block-text {
+  color: gold;
+}
+.buttons {
+  border: solid gold 5px;
+}
+#space {
+  border: solid gold 5px;
+}
+a:hover {
+  color: gold;
+}
