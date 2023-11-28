@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+footer {
+  background-color: #2FF3E0;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+header {
+  background-color: #2FF3E0;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+#projects {
+  background-color: #F51720;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+a:hover {
+  color: #F8D210;
+}
+a {
+  color: black;
+}
+ul {
+  list-style-position: inside;
+  list-style-type: square;
+  text-align: center;
+  font-size: 22px;
+}
+p {
+  font-size: 16px;
+}
+.tile {
+  background-color: #F8D210;
+}
